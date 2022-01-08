@@ -4,6 +4,7 @@
 该脚本可以用于去除断行、注释、乱码等，方便之后的翻译工作。  
   
 <img src="https://github.com/Karasukaigan/tampermonkey-paper-translation-helper/blob/main/img/screenshot01.png" alt="">  
+  
 ## 使用方法
 前提条件：  
 ①使用谷歌浏览器。  

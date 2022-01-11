@@ -1,7 +1,7 @@
 # 論文翻訳ヘルパー
 [中文](https://github.com/Karasukaigan/tampermonkey-paper-translation-helper/blob/main/README.md)  
 論文の翻訳に役に立つTampermonkeyスクリプトです。  
-PDFファイル内の文字列を直接にコピーする場合の改行・コメント・文字化けなどを削除し、翻訳効率を向上させます。  
+PDFファイル内の文字列をコピーする場合の改行・コメント・文字化けなどを自動的に削除し、翻訳効率を向上させます。  
   
 <img src="https://github.com/Karasukaigan/tampermonkey-paper-translation-helper/blob/main/img/screenshot01.png" alt="">  
   

@@ -1,5 +1,5 @@
 # 论文翻译助手
-[日本語]()  
+[日本語](https://github.com/Karasukaigan/tampermonkey-paper-translation-helper/blob/main/README(%E6%97%A5%E6%9C%AC%E8%AA%9E).md)  
 简单易用的论文翻译辅助工具，Tampermonkey脚本。  
 由于直接复制PDF内文本会出现断行等情况，导致翻译效率低下。  
 该脚本可以用于去除断行、注释、乱码等，方便之后的翻译工作。  
